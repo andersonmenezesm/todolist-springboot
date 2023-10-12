@@ -1,0 +1,25 @@
+[
+    {
+        "name": "Anderson Menezes",
+        "username": "andersonmenezes",
+        "password": "135791"
+    },
+    {
+        "name": "Tim",
+        "username": "timDue",
+        "password": "917531"
+    },
+    {
+        "name": "Jack",
+        "username": "jackDue",
+        "password": "913175"
+    },
+
+    {
+        "description": "Tarefa de tasks para curso de SpringBoot",
+        "title": "Assistindo Aula",
+        "prioriy": "ALTA",
+        "startAt": "2023-10-12T01:40:52",
+        "endAt": "2023-10-15T08:30:00"
+    }
+]
