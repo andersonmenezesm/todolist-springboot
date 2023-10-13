@@ -1,4 +1,4 @@
-package com.andersonmenezes.apispring.filter;
+package com.andersonmenezes.todolist.filter;
 
 import java.io.IOException;
 import java.util.Base64;
@@ -7,7 +7,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import org.springframework.web.filter.OncePerRequestFilter;
 
-import com.andersonmenezes.apispring.user.IUserRepository;
+import com.andersonmenezes.todolist.user.IUserRepository;
 
 import at.favre.lib.crypto.bcrypt.BCrypt;
 import jakarta.servlet.FilterChain;

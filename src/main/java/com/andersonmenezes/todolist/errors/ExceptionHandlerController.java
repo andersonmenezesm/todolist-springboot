@@ -1,4 +1,4 @@
-package com.andersonmenezes.apispring.errors;
+package com.andersonmenezes.todolist.errors;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

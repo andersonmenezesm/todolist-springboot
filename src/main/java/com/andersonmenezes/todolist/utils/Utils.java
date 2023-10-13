@@ -1,4 +1,4 @@
-package com.andersonmenezes.apispring.utils;
+package com.andersonmenezes.todolist.utils;
 
 import java.beans.PropertyDescriptor;
 import java.util.HashSet;

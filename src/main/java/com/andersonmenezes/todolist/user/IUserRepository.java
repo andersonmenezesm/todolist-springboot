@@ -1,4 +1,4 @@
-package com.andersonmenezes.apispring.user;
+package com.andersonmenezes.todolist.user;
 
 import java.util.UUID;
 

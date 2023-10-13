@@ -1,4 +1,4 @@
-package com.andersonmenezes.apispring.user;
+package com.andersonmenezes.todolist.user;
 
 import org.apache.catalina.connector.Response;
 import org.springframework.beans.factory.annotation.Autowired;

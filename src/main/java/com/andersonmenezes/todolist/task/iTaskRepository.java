@@ -1,4 +1,4 @@
-package com.andersonmenezes.apispring.task;
+package com.andersonmenezes.todolist.task;
 
 import java.util.UUID;
 
